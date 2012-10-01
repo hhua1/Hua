@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 that which does not kill us make us stronger.
+=======
+A
+B
+C
+>>>>>>> 5418c00d79742d0c7ab9a0d1703ae8d21f317a9c
