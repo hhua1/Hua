@@ -1,16 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-that which does not kill us make us stronger.
-=======
-A
-B
-C
->>>>>>> 5418c00d79742d0c7ab9a0d1703ae8d21f317a9c
-=======
+
 "Imagination rules the world." Napoleon Bonapare
->>>>>>> a9986a7ed16a923882778a9f1a9b965021c63826
-=======
+
 "Do or do not, there is no try" -Yoda
 
 "Imagination will often carry us to worlds that never were, but without it we go nowhere."
@@ -47,4 +37,4 @@ Love all, trust a few, do wrong to none.
 "Imagination rules the world." Napoleon Bonapare
 
 "Nothing is impossible for a willing heart."
->>>>>>> 4e441d76347f97b776d1decd0b50a30ce0a5a3df
+
